@@ -5,12 +5,16 @@
         <div id="navMenu" class="navbar-menu">
           <div class="navbar-brand">
             <h1 class="navbar-item title">
-              besnik.
+              <b>Besnik.</b>
             </h1>
           </div>
           <div class="navbar-start is-full-width is-justify-content-center">
             <div class="navbar-item">
               <a href="" class="has-text-dark navbar-link">Services</a>
+                <div class="navbar-dropdown">
+                  <a class="navbar-item">item1</a>
+                  <a class="navbar-item">item2</a>
+                </div>
               <a href="" class="has-text-dark navbar-item">About us</a>
               <a href="" class="has-text-dark navbar-item">Blog</a>
             </div>
@@ -35,7 +39,7 @@
         <div class="container">
           <div class="columns">
             <div class="column is-6">
-              <h2><b>Find & Hire Expert Freelancers</b></h2>
+              <h2 style="line-height: normal"><b>Find & Hire Expert Freelancers</b></h2>
                 
               <p class="has-padding-bottom-50">work with the best freelance talent from around the world on our secure flexible and cost-effective plataform</p>
               <div class="buttons">

@@ -31,7 +31,14 @@
           <p class="has-margin-bottom-20"><b>Get in touch</b></p>
           <p class="has-margin-bottom-20">You'll find your next freelance vavlv your prefer</p>
           <div>
-            <input class="input has-background-black is-borderless is-rounded" placeholder="Search the text" type="text">
+            <div class="field">
+              <div class="control has-icons-right">
+                <input class="input is-success has-background-black-ter has-text-light is-borderless" type="text" placeholder="Text input" value="bulma">
+                <span class="icon is-small is-right">
+                  <i class="has-text-primary" data-feather="plus-circle"></i>
+                </span>
+              </div>
+            </div>          
           </div>
         </div>
         <div class="column is-6">

@@ -21,6 +21,10 @@ $size-3: clamp(1.21rem, 0.65vw + 1.05rem, 1.83rem);
 $size-2: clamp(1.43rem, 0.9vw + 1.2rem, 2.29rem);
 $size-1: clamp(1.69rem, 1.24vw + 1.38rem, 2.86rem);
 
+.is-size-3{
+    line-height: normal;
+}
+
 $size-small: 0.75rem;
 $size-normal: 1rem;
 $size-medium: 1.25rem;
