@@ -69,12 +69,16 @@ a {
   }
 }
 
-#card{
-  background: rgba(241, 241, 241,0.7);
+#card, #card-testimonial{
+  background-color: rgba(241, 241, 241,0.7);
   transition: background-color,box-shadow 0.3s ease 0s;
 }
 
 #card:hover{
-  background: none;
+  background-color: transparent;
   box-shadow: 10px 10px 10px 0px rgba(0,0,0,0.2);
+}
+
+#card-testimonial:hover{
+  background-color: transparent;
 }

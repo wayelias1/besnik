@@ -3,7 +3,7 @@
         <h3 class="has-text-align-center has-margin-bottom-40"><b>Check our Satisfied Clients</b></h3>
         <div class="columns is-multiline">
             <div class="column is-6">
-                <div class="card">
+                <div class="card" id="card-testimonial">
                     <div class="has-padding-40">
                         <p class="has-padding-bottom-30">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe modi distinctio id fuga architecto. Reprehenderit optio porro est molestiae odio provident nisi id atque culpa recusandae, laudantium, illo quidem similique?</p>
                         <div class="columns has-padding-10">
@@ -19,7 +19,7 @@
                 </div>
             </div>
             <div class="column is-6">
-                <div class="card">
+                <div class="card" id="card-testimonial">
                     <div class="has-padding-40">
                         <p class="has-padding-bottom-30">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe modi distinctio id fuga architecto. Reprehenderit optio porro est molestiae odio provident nisi id atque culpa recusandae, laudantium, illo quidem similique?</p>
                         <div class="columns has-padding-10">
@@ -35,7 +35,7 @@
                 </div>
             </div>
             <div class="column is-6">
-                <div class="card">
+                <div class="card" id="card-testimonial">
                     <div class="has-padding-40">
                         <p class="has-padding-bottom-30">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe modi distinctio id fuga architecto. Reprehenderit optio porro est molestiae odio provident nisi id atque culpa recusandae, laudantium, illo quidem similique?</p>
                         <div class="columns has-padding-10">
@@ -51,7 +51,7 @@
                 </div>
             </div>
             <div class="column is-6">
-                <div class="card">
+                <div class="card" id="card-testimonial">
                     <div class="has-padding-40">
                         <p class="has-padding-bottom-30">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe modi distinctio id fuga architecto. Reprehenderit optio porro est molestiae odio provident nisi id atque culpa recusandae, laudantium, illo quidem similique?</p>
                         <div class="columns has-padding-10">
@@ -61,6 +61,9 @@
                             <div class="column">
                                 <b>Scopic</b>
                                 <p>Engineer</p>
+                            </div>
+                            <div>
+                                <i></i>
                             </div>
                         </div>
                     </div>
