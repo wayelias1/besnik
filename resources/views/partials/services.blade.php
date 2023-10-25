@@ -6,8 +6,8 @@
         </div>
         <div class="container">
             <div class="columns is-multiline has-text-align-center">
-                <div class="column is-6 is-4-desktop">
-                    <div class="has-padding-70 is-flex is-flex-direction-column is-justify-content-space-between has-background-light" style="min-height: 350px">
+                <div class="column is-6 is-4-desktop p-0">
+                    <div class="has-padding-70 is-flex is-flex-direction-column is-justify-content-space-between" id="card" style="min-height: 350px">
                         <div>
                             <div class="is-flex is-justify-content-center ">
                                 <div class="image is-48x48" data-feather="code"></div>
@@ -20,8 +20,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="column is-6 is-4-desktop">
-                    <div class="has-padding-70 is-flex is-flex-direction-column is-justify-content-space-between has-background-light" style="min-height: 350px">
+                <div class="column is-6 is-4-desktop p-0">
+                    <div class="has-padding-70 is-flex is-flex-direction-column is-justify-content-space-between" id="card" style="min-height: 350px">
                         <div>
                             <div class="is-flex is-justify-content-center ">
                                 <div class="image is-48x48" data-feather="file-text"></div>
@@ -34,8 +34,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="column is-6 is-4-desktop">
-                    <div class="has-padding-70 is-flex is-flex-direction-column is-justify-content-space-between has-background-light" style="min-height: 350px">
+                <div class="column is-6 is-4-desktop p-0">
+                    <div class="has-padding-70 is-flex is-flex-direction-column is-justify-content-space-between" id="card" style="min-height: 350px">
                         <div>
                             <div class="is-flex is-justify-content-center ">
                                 <div class="image is-48x48" data-feather="pen-tool"></div>
@@ -48,8 +48,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="column is-6 is-4-desktop">
-                    <div class="has-padding-70 is-flex is-flex-direction-column is-justify-content-space-between has-background-light" style="min-height: 350px">
+                <div class="column is-6 is-4-desktop p-0">
+                    <div class="has-padding-70 is-flex is-flex-direction-column is-justify-content-space-between" id="card" style="min-height: 350px">
                         <div>
                             <div class="is-flex is-justify-content-center ">
                                 <div class="image is-48x48" data-feather="bar-chart-2"></div>
@@ -62,8 +62,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="column is-6 is-4-desktop">
-                    <div class="has-padding-70 is-flex is-flex-direction-column is-justify-content-space-between has-background-light" style="min-height: 350px">
+                <div class="column is-6 is-4-desktop p-0">
+                    <div class="has-padding-70 is-flex is-flex-direction-column is-justify-content-space-between" id="card" style="min-height: 350px">
                         <div>
                             <div class="is-flex is-justify-content-center ">
                                 <div class="image is-48x48" data-feather="info"></div>
@@ -76,8 +76,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="column is-6 is-4-desktop">
-                    <div class="has-padding-70 is-flex is-flex-direction-column is-justify-content-space-between has-background-light" style="min-height: 350px">
+                <div class="column is-6 is-4-desktop p-0">
+                    <div class="has-padding-70 is-flex is-flex-direction-column is-justify-content-space-between" id="card" style="min-height: 350px">
                         <div>
                             <div class="is-flex is-justify-content-center ">
                                 <div class="image is-48x48" data-feather="volume-2"></div>

@@ -10,11 +10,13 @@
           </div>
           <div class="navbar-start is-full-width is-justify-content-center">
             <div class="navbar-item">
-              <a href="" class="has-text-dark navbar-link">Services</a>
-                <div class="navbar-dropdown">
-                  <a class="navbar-item">item1</a>
-                  <a class="navbar-item">item2</a>
-                </div>
+              <div class="navbar-item has-dropdown is-hoverable">
+                <a class="has-text-dark navbar-link">Services</a>
+                  <div class="navbar-dropdown">
+                    <a class="navbar-item">item1</a>
+                    <a class="navbar-item">item2</a>
+                  </div>
+              </div>
               <a href="" class="has-text-dark navbar-item">About us</a>
               <a href="" class="has-text-dark navbar-item">Blog</a>
             </div>
