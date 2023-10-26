@@ -147,3 +147,11 @@ a {
 #social-icon:hover{
   background-color: rgba(131, 131, 131, 0.7);
 }
+
+#link-list a{
+  transition: color 0.2s ease 0s;
+}
+
+#link-list a:hover{
+  color: $primary;
+}

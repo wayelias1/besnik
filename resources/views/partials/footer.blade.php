@@ -6,36 +6,36 @@
 
       <hr class="has-margin-top-80 has-margin-bottom-90 is-opaque is-15">
       <div class="columns is-multiline">
-        <div class="column is-3 is-6-touch has-margin-bottom-30">
-          <div class="columns is-flex flex-column is-justify-content-space-between">
-            <h6 class="navbar-item has-text-white"><b>Service</b></h6>
-            <a class="navbar-item">Grapich design</a>
-            <a class="navbar-item">Web development</a>
-            <a class="navbar-item">Engineer</a>
-            <a class="navbar-item">Marketing</a>
+        <div class="column is-3 is-6-touch has-padding-20">
+          <div class="columns is-flex flex-column is-justify-content-space-between" id="link-list">
+            <h6 class="has-padding-20 has-text-white"><b>Service</b></h6>
+            <a class="has-padding-20">Grapich design</a>
+            <a class="has-padding-20">Web development</a>
+            <a class="has-padding-20">Engineer</a>
+            <a class="has-padding-20">Marketing</a>
           </div>
         </div>
-        <div class="column is-3 is-6-touch has-margin-bottom-30">
-          <div class="columns is-flex flex-column is-justify-content-space-between">
-            <h6 class="navbar-item has-text-white"><b>Resources</b></h6>
-            <a class="navbar-item">Visual Assistance</a>
-            <a class="navbar-item">Accountants</a>
-            <a class="navbar-item">Bookmarks</a>
-            <a class="navbar-item">Free trial</a>
+        <div class="column is-3 is-6-touch has-padding-20">
+          <div class="columns is-flex flex-column is-justify-content-space-between" id="link-list">
+            <h6 class="has-padding-20 has-text-white"><b>Resources</b></h6>
+            <a class="has-padding-20">Visual Assistance</a>
+            <a class="has-padding-20">Accountants</a>
+            <a class="has-padding-20">Bookmarks</a>
+            <a class="has-padding-20">Free trial</a>
           </div>
         </div>
-        <div class="column is-3 is-6-touch has-margin-bottom-30">
-          <div class="columns is-flex flex-column is-justify-content-space-between">
-            <h6 class="navbar-item has-text-white"><b>Company</b></h6>
-            <a class="navbar-item">Parnerships</a>
-            <a class="navbar-item">Terms of use</a>
-            <a class="navbar-item">Privacy</a>
-            <a class="navbar-item">Slidemap</a>
+        <div class="column is-3 is-6-touch has-padding-20">
+          <div class="columns is-flex flex-column is-justify-content-space-between" id="link-list">
+            <h6 class="has-padding-20 has-text-white"><b>Company</b></h6>
+            <a class="has-padding-20">Parnerships</a>
+            <a class="has-padding-20">Terms of use</a>
+            <a class="has-padding-20">Privacy</a>
+            <a class="has-padding-20">Slidemap</a>
           </div>
         </div>
-        <div class="column is-3 is-6-touch has-margin-bottom-30">
+        <div class="column is-3 is-6-touch has-padding-bottom-30">
           <h6 class="title is-5"><b>Get in touch</b></h6>
-          <p class="has-margin-bottom-20">You'll find your next freelance vavlv your prefer</p>
+          <p class="has-padding-bottom-20">You'll find your next freelance vavlv your prefer</p>
           <div>
             <div class="field">
               <div class="control has-icons-right">
@@ -48,7 +48,7 @@
           </div>
         </div>
         <div class="column is-12">
-          <div class="is-flex is-justify-content-space-between is-align-items-center">
+          <div class="is-flex is-justify-content-space-between is-align-items-center has-margin-top-40">
             <h3><b>Besnik.</b></h2>
             <p>copyright 2020 all rights deserved</p>
           </div>
