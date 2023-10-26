@@ -123,10 +123,10 @@ a {
   #card-testimonial:hover {
     
     &:after {
-      top: -40px;
+      top: -26px;
       left: 10%;
-      border-left: 40px solid $primary;
-      transform: rotate(-10deg);
+      border-left: 38px solid $primary;
+      transform: rotate(107deg);
     }
     &:before {
       content: "";
@@ -135,7 +135,7 @@ a {
       right: 20%;
       width: 60px;
       height: 30px;
-      border: 2px solid #c1c1c1;
+      border: 2px solid $grey;
       transition: 0.2s;
       border-radius: 100px 100px 0px 0px;
       transform: rotate(220deg);
