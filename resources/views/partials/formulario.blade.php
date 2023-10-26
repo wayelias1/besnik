@@ -7,20 +7,18 @@
                 <h5 class="has-padding-bottom-30">
                   <b>social media</b>
                 </h5>
-                <div class="is-flex pagination is-rounded">
-                  <div class="pagination-list">
-                    <div class="has-padding-10 has-background-grey-dark pagination-link is-borderless">
-                      <div class="has-text-white" data-feather="send"></div>
-                    </div>
-                    <div class="has-padding-10 has-background-grey-dark pagination-link is-borderless">
-                      <div class="has-text-white" data-feather="twitter"></div>
-                    </div>
-                    <div class="has-padding-10 has-background-grey-dark pagination-link is-borderless">
-                      <div class="has-text-white" data-feather="meh"></div>
-                    </div>
-                    <div class="has-padding-10 has-background-grey-dark pagination-link is-borderless">
-                      <div class="has-text-white" data-feather="aperture"></div>
-                    </div>
+                <div class="buttons">
+                  <div class="has-padding-10 button is-rounded is-borderless" id="social-icon">
+                    <div class="has-text-white" data-feather="send"></div>
+                  </div>
+                  <div class="has-padding-10 button is-rounded is-borderless" id="social-icon">
+                    <div class="has-text-white" data-feather="twitter"></div>
+                  </div>
+                  <div class="has-padding-10 button is-rounded is-borderless" id="social-icon">
+                    <div class="has-text-white" data-feather="meh"></div>
+                  </div>
+                  <div class="has-padding-10 button is-rounded is-borderless" id="social-icon">
+                    <div class="has-text-white" data-feather="aperture"></div>
                   </div>
                 </div>
             </div>
@@ -33,8 +31,8 @@
             <form action="">
                 <div class="field">
                   <label for="">Name</label>
-                    <p class="control has-icons-left has-icons-right">
-                      <input class="input has-background-dark" style="border: 0; border-bottom: 1px solid grey;" type="text" placeholder="Name">
+                    <p class="control has-icons-right">
+                      <input class="input has-background-dark has-text-white input-down" type="text" placeholder="Name">
                       <span class="icon is-small is-left">
                         <i class="fas fa-envelope"></i>
                       </span>
@@ -45,8 +43,8 @@
                   </div>
                   <div class="field">
                     <label for="">Email</label>
-                    <p class="control has-icons-left">
-                      <input class="input has-background-dark" style="border: 0; border-bottom: 1px solid grey;" type="email" placeholder="Email">
+                    <p class="control">
+                      <input class="input has-background-dark has-text-white input-down" type="email" placeholder="Email">
                       <span class="icon is-small is-left">
                         <i class="fas fa-lock"></i>
                       </span>
@@ -57,7 +55,7 @@
                       <div class="field">
                         <label for="">Message</label>
                         <div class="control">
-                          <textarea class="textarea has-background-dark" style="border: 0; border-bottom: 1px solid grey;" placeholder="Explain how we can help you"></textarea>
+                          <textarea class="textarea has-background-dark has-text-white input-down" placeholder="Explain how we can help you"></textarea>
                         </div>
                       </div>
                     </div>
